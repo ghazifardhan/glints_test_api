@@ -1,0 +1,16 @@
+preset: laravel
+enabled:
+  - alpha_ordered_imports
+disabled:
+  - length_ordered_imports
+  - unused_use
+  - post_increment
+  - phpdoc_summary
+finder:
+  not-name:
+    - index.php
+    - server.php
+  exclude:
+    - "tests"
+    - "storage"
+    - "vendor"

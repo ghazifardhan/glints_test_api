@@ -1,0 +1,9 @@
+127.0.0.1       localhost
+10.0.2.2	api-gm.test
+10.0.2.2	backend-gm.test
+10.0.2.2	backend-pj.test
+10.0.2.2	ida.test
+10.0.2.2	pasarjaya.test
+10.0.2.2	ikat.test
+10.0.2.2	glints.test
+::1             ip6-localhost
